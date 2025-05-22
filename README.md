@@ -1,12 +1,12 @@
-![Build and Deploy Full Stack ChatPDF Clone](https://github.com/Elliott-Chong/chatpdf-yt/assets/77007117/7fcee290-ca52-46ee-ae82-3490f505270b)
 
-[Link to YouTube Tutorial](https://www.youtube.com/watch?v=bZFedu-0emE)
 
 # Overview
 
-Welcome to the "chatpdf-yt" project, a comprehensive chat application with PDF integration. This project is designed to provide a seamless chat experience where users can upload PDF files, create chats around them, and interact with an AI assistant. The AI assistant uses the OpenAI API to generate responses based on the chat context. The application also includes a subscription feature, where users can subscribe to access premium features. The subscription process is handled using Stripe for payments and webhooks for event processing.
+Welcome to the "PDF Querying App", a powerful application that enables users to upload and query PDF documents using natural language. The core functionality of this project is centered around extracting and understanding information from PDF files with the help of an AI assistant. Users can interact with the uploaded documents by asking questions, and the AI provides relevant answers based on the document content.
 
-hi this is a test change!
+This application integrates the OpenAI API to process queries and generate intelligent responses based on the context of the PDFs. It also includes a subscription-based access model, allowing users to unlock premium features.
+
+
 
 # Technologies and Frameworks
 
